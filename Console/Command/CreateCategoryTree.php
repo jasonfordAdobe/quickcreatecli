@@ -1,8 +1,4 @@
 <?php
-/**
- * Copyright © 2016 Magento. All rights reserved.
- * See COPYING.txt for license details.
- */
 
 namespace Jason\QuickCreateCli\Console\Command;
 
@@ -18,8 +14,7 @@ use Symfony\Component\Console\Helper\ProgressBar;
 /**
  * Class GreetingCommand
  */
-class CreateCategoryTree extends Command
-{
+class CreateCategoryTree extends Command {
     /**
      * Name argument
      */

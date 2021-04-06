@@ -4,7 +4,6 @@
     "description": "CLI commands for quickly creating content",
     "require": {
         "magento/framework": "*",
-        "magento/module-page-builder": "*",
         "php": "~7.3.0||~7.4.0"
     },
     "type": "magento2-module",

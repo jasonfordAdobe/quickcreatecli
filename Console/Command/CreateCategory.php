@@ -1,8 +1,4 @@
 <?php
-/**
- * Copyright © 2016 Magento. All rights reserved.
- * See COPYING.txt for license details.
- */
 
 namespace Jason\QuickCreateCli\Console\Command;
 
@@ -16,8 +12,7 @@ use Magento\Catalog\Model\CategoryFactory;
 /**
  * Class GreetingCommand
  */
-class CreateCategory extends Command
-{
+class CreateCategory extends Command {
     /**
      * Name argument
      */
